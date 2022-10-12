@@ -10,4 +10,4 @@ var t=arguments[3];function e(t){return(e="function"==typeof Symbol&&"symbol"==t
 },{"simplelightbox":"yx6k"}],"cbZI":[function(require,module,exports) {
 "use strict";require("./lightbox/create-markup-lightbox"),require("./lightbox/simpleLightbox");
 },{"./lightbox/create-markup-lightbox":"QL2W","./lightbox/simpleLightbox":"Wm0g"}]},{},["cbZI"], null)
-//# sourceMappingURL=/02-lightbox.e3733d92.js.map
+//# sourceMappingURL=/gallery-npm/02-lightbox.e3733d92.js.map

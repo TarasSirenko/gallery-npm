@@ -13,4 +13,4 @@ var e,n=arguments[3];!function(t){"object"==typeof exports&&"undefined"!=typeof 
 },{"./create-markup-gealery":"xInD","basiclightbox":"BNjD"}],"TfQ5":[function(require,module,exports) {
 "use strict";require("./gallery.js/create-markup-gealery"),require("./gallery.js/prevent-default-link"),require("./gallery.js/basicLightbox");
 },{"./gallery.js/create-markup-gealery":"xInD","./gallery.js/prevent-default-link":"wAeA","./gallery.js/basicLightbox":"i86T"}]},{},["TfQ5"], null)
-//# sourceMappingURL=/01-gallery.bc4bd6fa.js.map
+//# sourceMappingURL=/gallery-npm/01-gallery.bc4bd6fa.js.map

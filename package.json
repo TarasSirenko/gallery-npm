@@ -6,7 +6,7 @@
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
     "goLive": "parcel ./src/index.html --open",
-    "build": "parcel build ./src/index.html --out-dir=build"
+    "build": "parcel build ./src/*.html --out-dir=build --public-url /gallery-npm/"
   },
   "repository": {
     "type": "git",
